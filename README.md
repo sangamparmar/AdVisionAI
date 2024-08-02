@@ -4,6 +4,12 @@
 
 The ByteSmashers AI-Driven Media Budget Optimizer is designed to optimize budget allocation across various advertising channels. This solution ingests ad spend data, analyzes channel performance, and reallocates budgets to maximize conversions and efficiency.
 
+
+![Screenshot 1](![Screenshot 2024-08-02 205333](https://github.com/user-attachments/assets/f381108d-0982-4225-bb21-3789ddf1d51f)
+)
+![Screenshot 2](![Screenshot 2024-08-02 205623](https://github.com/user-attachments/assets/13880772-7c25-4b2c-bda3-0948e77866b1)
+)
+
 ## Libraries and Versions
 
 To ensure compatibility, the following libraries and their versions are used:
