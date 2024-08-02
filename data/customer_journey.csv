@@ -1,0 +1,5 @@
+customer_id,channel_source,ad_campaign_type,timestamp,touchpoint_type
+1,google-paid,search,2023-01-01 12:00:00,landing
+1,email,newsletter,2023-01-02 08:00:00,purchase
+2,paid-meta,display,2023-01-01 15:00:00,landing
+2,direct,direct,2023-01-03 09:00:00,purchase
